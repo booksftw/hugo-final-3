@@ -1,0 +1,26 @@
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+    <channel>
+        <title>Posts on Hello Friend, I&#39;m NZ</title>
+        <link>localhost/posts/</link>
+        <description>Recent content in Posts on Hello Friend, I&#39;m NZ</description>
+        <generator>Hugo -- gohugo.io</generator>
+        <language>en-us</language>
+        <lastBuildDate>Fri, 17 Mar 2023 09:52:14 -0700</lastBuildDate>
+        <atom:link href="localhost/posts/index.xml" rel="self" type="application/rss+xml" />
+        
+        <item>
+            <title>My First Post</title>
+            <link>localhost/posts/my-first-post/</link>
+            <pubDate>Fri, 17 Mar 2023 09:52:14 -0700</pubDate>
+            
+            <guid>localhost/posts/my-first-post/</guid>
+            <description>Introduction This is bold text, and this is emphasized text.
+Visit the Hugo website!</description>
+            <content type="html"><![CDATA[<h2 id="introduction">Introduction</h2>
+<p>This is <strong>bold</strong> text, and this is <em>emphasized</em> text.</p>
+<p>Visit the <a href="https://gohugo.io">Hugo</a> website!</p>
+]]></content>
+        </item>
+        
+    </channel>
+</rss>
